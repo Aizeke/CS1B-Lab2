@@ -1,5 +1,5 @@
 // Author: Isaac Guido
-//		   Noah Vaks	
+//         Noah Vaks
 // Description: Hello World in C++
 // =========================================
 
@@ -13,9 +13,9 @@ int hello2Function(string name2);
 
 int main() {
 
-	string name1 = "PLACEHOLDER";
+        string name1 = "Isaac Guido";
 	hello1Function(name1);
-	string name2 = "Isaac Guido";
+        string name2 = "Noah Vaks";
 	hello2Function(name2);
 
 	cout << endl;

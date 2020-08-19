@@ -6,6 +6,7 @@
 #include <iostream>
 #include <string>
 #include "helloOneWorld.cpp"
+#include "hello2Function.cpp"
 
 using namespace std;
 

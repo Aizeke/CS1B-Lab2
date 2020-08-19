@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <string>
+#include "hello2Function.cpp"
 
 using namespace std;
 

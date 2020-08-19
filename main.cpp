@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <string>
+#include "helloOneWorld.cpp"
 
 using namespace std;
 
@@ -13,9 +14,9 @@ int hello2Function(string name2);
 
 int main() {
 
-        string name1 = "Isaac Guido";
+    string name1 = "Isaac Guido";
 	hello1Function(name1);
-        string name2 = "Noah Vaks";
+    string name2 = "Noah Vaks";
 	hello2Function(name2);
 
 	cout << endl;
@@ -41,7 +42,7 @@ int hello1Function(string name1) {
 
 int hello2Function(string name2) {
 
-	cout << "Hello World " << name2 << endl;
+	cout << "Hello World my name is " << name2 << endl;
 
 	return 0;
 }

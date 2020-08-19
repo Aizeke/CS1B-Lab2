@@ -30,7 +30,7 @@ int main() {
 
 int hello1Function(string name1) {
 
-	cout << "Hello World " << name1 << endl;
+	cout << "Hello World my name is " << name1 << endl;
 
 	return 0;
 }
